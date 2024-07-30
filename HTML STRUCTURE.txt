@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extra Boccio - Cocktail Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Extra Boccio</h1>
+        <h2>Cocktail Menu</h2>
+    </header>
+    <main>
+        <section id="aperitifs">
+            <h3>Aperitifs</h3>
+            <ul>
+                <!-- List items extracted from PDF -->
+                <li>Aperitif 1 - Description</li>
+                <li>Aperitif 2 - Description</li>
+                <!-- Add more as necessary -->
+            </ul>
+        </section>
+        <section id="signature-cocktails">
+            <h3>Signature Cocktails</h3>
+            <ul>
+                <!-- List items extracted from PDF -->
+                <li>Signature Cocktail 1 - Description</li>
+                <li>Signature Cocktail 2 - Description</li>
+                <!-- Add more as necessary -->
+            </ul>
+        </section>
+        <section id="classics">
+            <h3>Classics</h3>
+            <ul>
+                <!-- List items extracted from PDF -->
+                <li>Classic 1 - Description</li>
+                <li>Classic 2 - Description</li>
+                <!-- Add more as necessary -->
+            </ul>
+        </section>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>
